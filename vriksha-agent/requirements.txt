@@ -1,0 +1,3 @@
+gradio>=4.44
+matplotlib>=3.7
+anthropic>=0.34  # optional, only for the covering note
